@@ -1,0 +1,27 @@
+# Dépendances
+node_modules/
+package-lock.json
+
+# Fichiers générés par le script
+data.json
+data.xml
+data.proto
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environnement
+.env
+.env.local
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
